@@ -1,2 +1,2 @@
 # url-session-ios
-A small project that helps me better understand URL sessions for networking in iOS. 
+This compact project has enabled me to deepen my understanding of URL Session, a crucial aspect of networking on the iOS platform.
